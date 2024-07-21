@@ -1,14 +1,9 @@
 
 <div align="center">
 
-
 #  AetherStack
 
-
-
-
 </div>
-
 
 <div align="center">
 
@@ -40,6 +35,16 @@
 ## &nbsp;&nbsp;Project description
 
 This repository hosts all of the hardware design files (KiCad 8.0.0) for my own digital FPV stack (FC & ESC). Documentation & references will be published in future commits.
+
+### &nbsp;&nbsp;&nbsp;&nbsp;Project milestones
+        
+  |  State  		 | Tasks description                                      		| Start date | End date |
+  |----------------------|----------------------------------------------------------------------|------------|----------|
+  |<ul><li>[x] </li></ul>| Setup KiCad interface & project settings				| 16/07/24   | 18/07/24 |
+  |<ul><li>[x] </li></ul>| KiCad & project-related documentation				| 16/07/24   | xx/xx/24 |
+  |<ul><li>[x] </li></ul>| FC schematic sheets content completion				| 18/07/24   | xx/xx/24 |
+  |<ul><li>[x] </li></ul>| Footprints, 3D models & Manufacturers/MPNs assignment		| 23/07/24   | xx/xx/24 |
+  |<ul><li>[x] </li></ul>| Schematic checkup & pair review before PCB export			| 28/07/24   | xx/xx/24 |
 
 <details>
 
